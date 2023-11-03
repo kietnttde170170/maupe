@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pen",
+      "price": 10.88,
+      "description": "lorem ipsum dolor sit amet, consectetur adip",
+      "catalogs": [
+        "catalog1",
+        "catalog2"
+      ]
+    }
+  ]
+}
